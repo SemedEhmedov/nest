@@ -12,6 +12,8 @@ namespace Nest1.ViewModels.Account
         [Required]
         [DataType(DataType.Password)]
         public string Password { get; set; }
+        [Required]
+        [DataType(DataType.Password),Compare(nameof(Password))]
         public string ConfirmPassword { get; set; }
     }
 }

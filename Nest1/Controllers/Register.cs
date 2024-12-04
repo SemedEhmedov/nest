@@ -21,12 +21,12 @@ namespace Nest1.Controllers
 
         public UserManager<AppUser> UserManager { get; }
 
-        public IActionResult Index()
+        public IActionResult Registerr()
         {
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Index(RegisterVm vm)
+        public async Task<IActionResult> Registerr(RegisterVm vm)
         {
             if(!ModelState.IsValid)
             {

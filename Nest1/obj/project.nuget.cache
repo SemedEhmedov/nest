@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D5ir7P2sOmE=",
+  "dgSpecHash": "CE+70O4qh90=",
   "success": true,
-  "projectFilePath": "C:\\Users\\I Novbe\\source\\repos\\Nest1\\Nest1\\Nest1.csproj",
+  "projectFilePath": "C:\\Users\\I Novbe\\Desktop\\nest\\Nest1\\Nest1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I Novbe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\I Novbe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
